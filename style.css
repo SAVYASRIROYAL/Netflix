@@ -1,0 +1,49 @@
+body{
+    background-image:url(netflix.png);
+    background-repeat: no-repeat;
+   
+}
+header{
+    padding-top: 30px;
+    padding-left:90px ;
+    display: inline;
+}
+div1{
+    display: inline;
+    padding-top: 20px;
+    padding-right: 100PX;
+    float: right;
+}
+#btn1{
+    color: white;
+    background-color: red;
+    border: none;
+    width:80px;
+    height:40px;
+    justify-content: space-between;
+    border-radius:5px;
+}
+div2{
+    color:white;
+    font-size:30px;
+}
+p{
+    font-size:20px; 
+}
+#input{
+ background-color: black;
+ height: 60px;
+ width: 450px;
+color: white;
+border: none;
+}
+
+#btn2{
+    background-color: rgb(245, 49, 49);
+    height: 60px;
+    width: 200px;
+    color: white;
+    border: none;
+    font-size: 20px;
+
+}
